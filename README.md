@@ -19,13 +19,13 @@ I'm a frontend developer...
 
 ---
 
-## 📸 Hình Ảnh  
+## 📸 Hình Ảnh
 
 <div style="display:flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://via.placeholder.com/150" alt="Ảnh 1" style="width: 150px; height: 150px; object-fit: cover; border-radius: 8px; transition: transform 0.3s ease-in-out;">
-  <img src="https://via.placeholder.com/150/FF5733" alt="Ảnh 2" style="width: 150px; height: 150px; object-fit: cover; border-radius: 8px; transition: transform 0.3s ease-in-out;">
-  <img src="https://via.placeholder.com/150/33FF57" alt="Ảnh 3" style="width: 150px; height: 150px; object-fit: cover; border-radius: 8px; transition: transform 0.3s ease-in-out;">
-  <img src="https://via.placeholder.com/150/3357FF" alt="Ảnh 4" style="width: 150px; height: 150px; object-fit: cover; border-radius: 8px; transition: transform 0.3s ease-in-out;">
-  <img src="https://via.placeholder.com/150/F3FF33" alt="Ảnh 5" style="width: 150px; height: 150px; object-fit: cover; border-radius: 8px; transition: transform 0.3s ease-in-out;">
-  <img src="https://via.placeholder.com/150/FF33A6" alt="Ảnh 6" style="width: 150px; height: 150px; object-fit: cover; border-radius: 8px; transition: transform 0.3s ease-in-out;">
+  <img src="https://i.pinimg.com/736x/c8/65/1a/c8651a71991c25df0fde1d3c839ca279.jpg" alt="Ảnh 1" style="width: 150px; height: 150px; object-fit: cover; border-radius: 8px; transition: transform 0.3s ease-in-out;">
+  <img src="https://i.pinimg.com/736x/c8/65/1a/c8651a71991c25df0fde1d3c839ca279.jpg" alt="Ảnh 2" style="width: 150px; height: 150px; object-fit: cover; border-radius: 8px; transition: transform 0.3s ease-in-out;">
+  <img src="https://i.pinimg.com/736x/c8/65/1a/c8651a71991c25df0fde1d3c839ca279.jpg" alt="Ảnh 3" style="width: 150px; height: 150px; object-fit: cover; border-radius: 8px; transition: transform 0.3s ease-in-out;">
+  <img src="https://i.pinimg.com/736x/c8/65/1a/c8651a71991c25df0fde1d3c839ca279.jpg" alt="Ảnh 4" style="width: 150px; height: 150px; object-fit: cover; border-radius: 8px; transition: transform 0.3s ease-in-out;">
+  <img src="https://i.pinimg.com/736x/c8/65/1a/c8651a71991c25df0fde1d3c839ca279.jpg" alt="Ảnh 5" style="width: 150px; height: 150px; object-fit: cover; border-radius: 8px; transition: transform 0.3s ease-in-out;">
+  <img src="https://i.pinimg.com/736x/c8/65/1a/c8651a71991c25df0fde1d3c839ca279.jpg" alt="Ảnh 6" style="width: 150px; height: 150px; object-fit: cover; border-radius: 8px; transition: transform 0.3s ease-in-out;">
 </div>
