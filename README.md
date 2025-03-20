@@ -2,7 +2,7 @@
 I'm a frontend developer...
 
 
-## Công nghệ sử dụng:
+## Technology:
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg">
