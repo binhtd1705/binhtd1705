@@ -18,3 +18,32 @@ I'm a frontend developer...
 </div>
 
 ---
+
+## 📸 Hình Ảnh  
+
+<style>
+  .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  .gallery img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 8px;
+    transition: transform 0.3s ease-in-out;
+  }
+  .gallery img:hover {
+    transform: scale(1.1);
+  }
+</style>
+
+<div class="gallery">
+  <img src="https://via.placeholder.com/150" alt="Ảnh 1">
+  <img src="https://via.placeholder.com/150/FF5733" alt="Ảnh 2">
+  <img src="https://via.placeholder.com/150/33FF57" alt="Ảnh 3">
+  <img src="https://via.placeholder.com/150/3357FF" alt="Ảnh 4">
+  <img src="https://via.placeholder.com/150/F3FF33" alt="Ảnh 5">
+  <img src="https://via.placeholder.com/150/FF33A6" alt="Ảnh 6">
+</div>
