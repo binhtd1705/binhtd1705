@@ -22,10 +22,10 @@ I'm a frontend developer...
 ## 📸 Hình Ảnh
 
 <div style="display:flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://i.pinimg.com/736x/c8/65/1a/c8651a71991c25df0fde1d3c839ca279.jpg" alt="Ảnh 1" style="width: auto; height: auto; object-fit: cover; border-radius: 8px; transition: transform 0.3s ease-in-out;">
-  <img src="https://i.pinimg.com/736x/c8/65/1a/c8651a71991c25df0fde1d3c839ca279.jpg" alt="Ảnh 2" style="width: auto; height: auto; object-fit: cover; border-radius: 8px; transition: transform 0.3s ease-in-out;">
-  <img src="https://i.pinimg.com/736x/c8/65/1a/c8651a71991c25df0fde1d3c839ca279.jpg" alt="Ảnh 3" style="width: auto; height: auto; object-fit: cover; border-radius: 8px; transition: transform 0.3s ease-in-out;">
-  <img src="https://i.pinimg.com/736x/c8/65/1a/c8651a71991c25df0fde1d3c839ca279.jpg" alt="Ảnh 4" style="width: auto; height: auto; object-fit: cover; border-radius: 8px; transition: transform 0.3s ease-in-out;">
-  <img src="https://i.pinimg.com/736x/c8/65/1a/c8651a71991c25df0fde1d3c839ca279.jpg" alt="Ảnh 5" style="width: auto; height: auto; object-fit: cover; border-radius: 8px; transition: transform 0.3s ease-in-out;">
-  <img src="https://i.pinimg.com/736x/c8/65/1a/c8651a71991c25df0fde1d3c839ca279.jpg" alt="Ảnh 6" style="width: auto; height: auto; object-fit: cover; border-radius: 8px; transition: transform 0.3s ease-in-out;">
+  <img src="https://i.pinimg.com/736x/c8/65/1a/c8651a71991c25df0fde1d3c839ca279.jpg" alt="Ảnh 1" style="width: auto; height: auto; max-width: 220px;  object-fit: cover; border-radius: 8px; transition: transform 0.3s ease-in-out;">
+  <img src="https://i.pinimg.com/736x/c8/65/1a/c8651a71991c25df0fde1d3c839ca279.jpg" alt="Ảnh 2" style="width: auto; height: auto; max-width: 220px;  object-fit: cover; border-radius: 8px; transition: transform 0.3s ease-in-out;">
+  <img src="https://i.pinimg.com/736x/c8/65/1a/c8651a71991c25df0fde1d3c839ca279.jpg" alt="Ảnh 3" style="width: auto; height: auto; max-width: 220px;  object-fit: cover; border-radius: 8px; transition: transform 0.3s ease-in-out;">
+  <img src="https://i.pinimg.com/736x/c8/65/1a/c8651a71991c25df0fde1d3c839ca279.jpg" alt="Ảnh 4" style="width: auto; height: auto; max-width: 220px;  object-fit: cover; border-radius: 8px; transition: transform 0.3s ease-in-out;">
+  <img src="https://i.pinimg.com/736x/c8/65/1a/c8651a71991c25df0fde1d3c839ca279.jpg" alt="Ảnh 5" style="width: auto; height: auto; max-width: 220px;  object-fit: cover; border-radius: 8px; transition: transform 0.3s ease-in-out;">
+  <img src="https://i.pinimg.com/736x/c8/65/1a/c8651a71991c25df0fde1d3c839ca279.jpg" alt="Ảnh 6" style="width: auto; height: auto; max-width: 220px;  object-fit: cover; border-radius: 8px; transition: transform 0.3s ease-in-out;">
 </div>
